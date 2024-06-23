@@ -1,0 +1,197 @@
+2024-06-11 17:15:20 ERROR AuthController:98 - Người dùng đăng nhâp thất bại với lỗi Bad credentials
+2024-06-12 20:07:34 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #218 khỏi giỏ hàng
+2024-06-12 20:25:27 INFO  OrderServiceImpl:97 - Đơn hàng YCRJLSJB9N được tạo bởi dangkhoa123
+2024-06-12 20:29:54 INFO  OrderServiceImpl:97 - Đơn hàng 8NLV18C9AG được tạo bởi dangkhoa123
+2024-06-12 22:01:17 INFO  AuthController:90 - Người dùng hoangnguyen đã đăng nhập
+2024-06-12 22:31:26 INFO  OrderServiceImpl:97 - Đơn hàng LO7PJGEE7X được tạo bởi dangkhoa123
+2024-06-12 22:31:27 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-12 22:31:27 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #219 khỏi giỏ hàng
+2024-06-12 22:31:27 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024)
+2024-06-12 22:31:27 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #220 khỏi giỏ hàng
+2024-06-12 23:01:13 INFO  AuthController:90 - Người dùng dangkhoa123 đã đăng nhập
+2024-06-12 23:08:16 INFO  OrderServiceImpl:97 - Đơn hàng DFUDN6QQD6 được tạo bởi dangkhoa123
+2024-06-12 23:08:16 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đám Trẻ Ở Đại Dương Đen
+2024-06-12 23:09:53 INFO  OrderServiceImpl:97 - Đơn hàng 9RFUC2T4MQ được tạo bởi dangkhoa123
+2024-06-12 23:09:53 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-12 23:09:53 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #221 khỏi giỏ hàng
+2024-06-12 23:09:53 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đám Trẻ Ở Đại Dương Đen
+2024-06-12 23:09:53 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #222 khỏi giỏ hàng
+2024-06-12 23:10:48 INFO  OrderServiceImpl:97 - Đơn hàng UDBMFP8GQE được tạo bởi dangkhoa123
+2024-06-12 23:10:48 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đồ Chơi Cờ Trí Tuệ UNO W2085
+2024-06-12 23:13:57 INFO  OrderServiceImpl:97 - Đơn hàng Z1YPZHPL5X được tạo bởi dangkhoa123
+2024-06-12 23:13:57 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-12 23:13:57 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #223 khỏi giỏ hàng
+2024-06-12 23:13:57 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024)
+2024-06-12 23:13:57 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #224 khỏi giỏ hàng
+2024-06-12 23:14:47 INFO  OrderServiceImpl:97 - Đơn hàng WNY6AZZVXE được tạo bởi dangkhoa123
+2024-06-12 23:14:47 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-12 23:21:57 INFO  OrderServiceImpl:97 - Đơn hàng OBXAICHSK3 được tạo bởi dangkhoa123
+2024-06-12 23:21:57 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-12 23:28:26 INFO  OrderServiceImpl:97 - Đơn hàng 2XG9JK5NFJ được tạo bởi dangkhoa123
+2024-06-12 23:28:26 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024)
+2024-06-12 23:34:10 INFO  OrderServiceImpl:97 - Đơn hàng GGC52YNTAF được tạo bởi dangkhoa123
+2024-06-12 23:34:10 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-13 01:05:43 INFO  AuthController:90 - Người dùng dangkhoa đã đăng nhập
+2024-06-13 02:25:07 INFO  OrderServiceImpl:97 - Đơn hàng W0Q5KXARQY được tạo bởi dangkhoa
+2024-06-13 02:25:07 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đắc Nhân Tâm (Tái Bản 2021)
+2024-06-13 09:55:10 INFO  AuthController:90 - Người dùng randomuser đã đăng nhập
+2024-06-13 10:55:12 INFO  OrderServiceImpl:97 - Đơn hàng N0VO6AXWIK được tạo bởi randomuser
+2024-06-13 10:55:12 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Khám Phá Thế Giới Động Vật Kì Thú: Thế Giới Của Những Loài Động Vật Sát Thủ (Tái Bản 2021)
+2024-06-13 10:55:12 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #62 khỏi giỏ hàng
+2024-06-13 10:55:12 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Lớp Học Mật Ngữ Phiên Bản Mới - Tập 1 - Tặng Kèm 1 Standee Lớp Học Mật Ngữ
+2024-06-13 10:55:12 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #63 khỏi giỏ hàng
+2024-06-13 10:55:12 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đám Trẻ Ở Đại Dương Đen
+2024-06-13 10:55:12 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #64 khỏi giỏ hàng
+2024-06-13 10:55:12 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Hanoi Traces Of The Old Days
+2024-06-13 10:55:12 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #65 khỏi giỏ hàng
+2024-06-13 10:55:12 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đắc Nhân Tâm (Tái Bản 2021)
+2024-06-13 10:55:12 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #66 khỏi giỏ hàng
+2024-06-13 11:21:57 INFO  OrderServiceImpl:97 - Đơn hàng ZEO5CQXMTR được tạo bởi randomuser
+2024-06-13 11:21:57 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đám Trẻ Ở Đại Dương Đen
+2024-06-13 11:21:57 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #70 khỏi giỏ hàng
+2024-06-13 11:21:57 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Lớp Học Mật Ngữ Phiên Bản Mới - Tập 1 - Tặng Kèm 1 Standee Lớp Học Mật Ngữ
+2024-06-13 11:21:57 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #71 khỏi giỏ hàng
+2024-06-13 21:25:05 INFO  OrderServiceImpl:97 - Đơn hàng 3OI8XHG868 được tạo bởi randomuser
+2024-06-13 21:25:05 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Hanoi Traces Of The Old Days
+2024-06-13 21:25:05 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #72 khỏi giỏ hàng
+2024-06-13 21:25:05 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Lớp Học Mật Ngữ Phiên Bản Mới - Tập 1 - Tặng Kèm 1 Standee Lớp Học Mật Ngữ
+2024-06-13 21:25:05 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #73 khỏi giỏ hàng
+2024-06-13 21:25:05 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Thay Đổi Cuộc Sống Với Nhân Số Học
+2024-06-13 21:25:05 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #74 khỏi giỏ hàng
+2024-06-13 21:25:05 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Cây Cam Ngọt Của Tôi
+2024-06-13 21:25:05 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #75 khỏi giỏ hàng
+2024-06-13 21:25:37 INFO  OrderServiceImpl:171 - Hủy đơn hàng 3OI8XHG868 thành công
+2024-06-13 21:26:11 INFO  OrderServiceImpl:171 - Hủy đơn hàng EVHCI0WYUE thành công
+2024-06-13 21:26:53 INFO  OrderServiceImpl:171 - Hủy đơn hàng 3OI8XHG868 thành công
+2024-06-13 21:30:00 WARN  OrderServiceImpl:166 - Đơn hàng đã được vận chuyển, không thể hủy
+2024-06-13 21:30:00 ERROR OrderServiceImpl:175 - Lỗi khi hủy đơn hàng: Đơn hàng đã được vận chuyển, không thể hủy
+2024-06-13 21:30:26 WARN  OrderServiceImpl:166 - Đơn hàng đã được vận chuyển, không thể hủy
+2024-06-13 21:30:26 ERROR OrderServiceImpl:175 - Lỗi khi hủy đơn hàng: Đơn hàng đã được vận chuyển, không thể hủy
+2024-06-13 21:32:02 WARN  OrderServiceImpl:166 - Đơn hàng đã được xác nhận, không thể hủy
+2024-06-13 21:32:02 ERROR OrderServiceImpl:175 - Lỗi khi hủy đơn hàng: Đơn hàng đã được xác nhận, không thể hủy
+2024-06-13 21:37:28 INFO  OrderServiceImpl:97 - Đơn hàng CD10D7BVRP được tạo bởi randomuser
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024)
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #76 khỏi giỏ hàng
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Lớp Học Mật Ngữ Phiên Bản Mới - Tập 1 - Tặng Kèm 1 Standee Lớp Học Mật Ngữ
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #77 khỏi giỏ hàng
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Khám Phá Thế Giới Động Vật Kì Thú: Thế Giới Của Những Loài Động Vật Sát Thủ (Tái Bản 2021)
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #78 khỏi giỏ hàng
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Cây Cam Ngọt Của Tôi
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #79 khỏi giỏ hàng
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đám Trẻ Ở Đại Dương Đen
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #80 khỏi giỏ hàng
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Thay Đổi Cuộc Sống Với Nhân Số Học
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #81 khỏi giỏ hàng
+2024-06-13 21:37:28 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Đứa Trẻ Hiểu Chuyện Thường Không Có Kẹo Ăn
+2024-06-13 21:37:28 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #82 khỏi giỏ hàng
+2024-06-13 21:48:18 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024) vào lúc Thu Jun 13 21:48:18 ICT 2024
+2024-06-13 21:48:40 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Đứa Trẻ Hiểu Chuyện Thường Không Có Kẹo Ăn vào lúc Thu Jun 13 21:48:40 ICT 2024
+2024-06-13 21:49:33 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:49:33 ICT 2024
+2024-06-13 21:49:46 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:49:46 ICT 2024
+2024-06-13 21:49:47 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:49:47 ICT 2024
+2024-06-13 21:49:50 INFO  CommentServiceImpl:151 - Đã xóa bình luận #9
+2024-06-13 21:49:52 INFO  CommentServiceImpl:151 - Đã xóa bình luận #8
+2024-06-13 21:50:59 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:50:59 ICT 2024
+2024-06-13 21:51:04 INFO  CommentServiceImpl:151 - Đã xóa bình luận #10
+2024-06-13 21:52:05 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:52:05 ICT 2024
+2024-06-13 21:52:07 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:52:07 ICT 2024
+2024-06-13 21:52:09 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:52:09 ICT 2024
+2024-06-13 21:52:11 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào lúc Thu Jun 13 21:52:11 ICT 2024
+2024-06-13 21:52:15 INFO  CommentServiceImpl:151 - Đã xóa bình luận #11
+2024-06-13 21:52:17 INFO  CommentServiceImpl:151 - Đã xóa bình luận #12
+2024-06-13 21:52:18 INFO  CommentServiceImpl:151 - Đã xóa bình luận #13
+2024-06-13 21:52:20 INFO  CommentServiceImpl:151 - Đã xóa bình luận #14
+2024-06-13 21:52:41 INFO  FavoriteProductServiceImpl:68 - Người dùng randomuser đã thêm sản phẩm Thay Đổi Cuộc Sống Với Nhân Số Học vào danh sách yêu thích
+2024-06-13 21:52:52 INFO  OrderServiceImpl:97 - Đơn hàng HWY47DC31H được tạo bởi randomuser
+2024-06-13 21:52:52 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Thay Đổi Cuộc Sống Với Nhân Số Học
+2024-06-13 22:16:30 INFO  OrderServiceImpl:97 - Đơn hàng O1KHV7YDFG được tạo bởi randomuser
+2024-06-13 22:16:30 ERROR OrderServiceImpl:100 - Lỗi khi tạo đơn hàng:could not execute statement [Cannot add or update a child row: a foreign key constraint fails (`online_bookstore`.`orders`, CONSTRAINT `FKbkb0aphl4ewfe8qevm2d8qgs6` FOREIGN KEY (`id`) REFERENCES `order_status` (`id`))] [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; SQL [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; constraint [null]
+2024-06-13 22:16:35 INFO  OrderServiceImpl:97 - Đơn hàng ZVI3ULIURT được tạo bởi randomuser
+2024-06-13 22:16:35 ERROR OrderServiceImpl:100 - Lỗi khi tạo đơn hàng:could not execute statement [Cannot add or update a child row: a foreign key constraint fails (`online_bookstore`.`orders`, CONSTRAINT `FKbkb0aphl4ewfe8qevm2d8qgs6` FOREIGN KEY (`id`) REFERENCES `order_status` (`id`))] [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; SQL [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; constraint [null]
+2024-06-13 22:16:45 INFO  OrderServiceImpl:97 - Đơn hàng EC7SLLZLWH được tạo bởi randomuser
+2024-06-13 22:16:45 ERROR OrderServiceImpl:100 - Lỗi khi tạo đơn hàng:could not execute statement [Cannot add or update a child row: a foreign key constraint fails (`online_bookstore`.`orders`, CONSTRAINT `FKbkb0aphl4ewfe8qevm2d8qgs6` FOREIGN KEY (`id`) REFERENCES `order_status` (`id`))] [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; SQL [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; constraint [null]
+2024-06-13 22:16:52 INFO  OrderServiceImpl:97 - Đơn hàng OV45O54QHE được tạo bởi randomuser
+2024-06-13 22:16:52 ERROR OrderServiceImpl:100 - Lỗi khi tạo đơn hàng:could not execute statement [Cannot add or update a child row: a foreign key constraint fails (`online_bookstore`.`orders`, CONSTRAINT `FKbkb0aphl4ewfe8qevm2d8qgs6` FOREIGN KEY (`id`) REFERENCES `order_status` (`id`))] [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; SQL [insert into orders (note,order_code,order_date,order_total,payment_method,discount_id,shipping_address,shipping_cost,status,total_quantity,user_id) values (?,?,?,?,?,?,?,?,?,?,?)]; constraint [null]
+2024-06-13 22:17:23 INFO  OrderServiceImpl:97 - Đơn hàng N1ZRP2IDOT được tạo bởi randomuser
+2024-06-13 22:17:23 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024)
+2024-06-13 22:17:24 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #83 khỏi giỏ hàng
+2024-06-13 22:17:24 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Cây Cam Ngọt Của Tôi
+2024-06-13 22:17:24 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #84 khỏi giỏ hàng
+2024-06-13 22:17:24 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Mindmap English Grammar - Ngữ Pháp Tiếng Anh Bằng Sơ Đồ Tư Duy
+2024-06-13 22:17:24 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #85 khỏi giỏ hàng
+2024-06-13 22:17:24 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: 48 Nguyên Tắc Chủ Chốt Của Quyền Lực (Tái Bản 2020)
+2024-06-13 22:17:24 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #86 khỏi giỏ hàng
+2024-06-13 22:17:24 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Việt Nam Phong Tục (Tái Bản 2020)
+2024-06-13 22:17:24 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #87 khỏi giỏ hàng
+2024-06-13 22:17:42 INFO  OrderServiceImpl:97 - Đơn hàng J85FK4X3IX được tạo bởi randomuser
+2024-06-13 22:17:42 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Thay Đổi Cuộc Sống Với Nhân Số Học
+2024-06-13 22:17:42 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #88 khỏi giỏ hàng
+2024-06-13 22:17:42 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Fire Force - Tập 24 - Tặng Kèm Bookmark Giấy Hình Nhân Vật
+2024-06-13 22:17:42 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #89 khỏi giỏ hàng
+2024-06-13 22:18:07 INFO  OrderServiceImpl:97 - Đơn hàng 4555WPS30T được tạo bởi randomuser
+2024-06-13 22:18:07 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh
+2024-06-13 22:18:07 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #90 khỏi giỏ hàng
+2024-06-13 22:18:07 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Hộp 20 Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh
+2024-06-13 22:18:07 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #91 khỏi giỏ hàng
+2024-06-13 22:18:08 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Máy Tính CASIO FX-880BTG - Màu Hồng
+2024-06-13 22:18:08 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #92 khỏi giỏ hàng
+2024-06-13 22:26:55 INFO  UserServiceImpl:173 - Tạo tài khoản chuotcon thành công
+2024-06-13 22:27:45 WARN  UserServiceImpl:123 - Email chuotcon@gmail.com đã được sử dụng!
+2024-06-13 22:28:21 WARN  UserServiceImpl:123 - Email chuotcon@gmail.com đã được sử dụng!
+2024-06-13 22:29:15 WARN  UserServiceImpl:123 - Email chuotcon@gmail.com đã được sử dụng!
+2024-06-13 22:30:09 INFO  UserServiceImpl:173 - Tạo tài khoản anotheruser thành công
+2024-06-13 22:30:16 INFO  AuthController:90 - Người dùng hoangnguyen đã đăng nhập
+2024-06-13 22:39:17 INFO  UserServiceImpl:233 - Cập nhật tài khoản anotheruser thành công
+2024-06-13 22:41:58 ERROR ProductServiceImpl:315 - Lỗi khi tạo mới sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @1eaef328)
+2024-06-13 22:43:08 ERROR ProductServiceImpl:315 - Lỗi khi tạo mới sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @1eaef328)
+2024-06-13 22:44:51 ERROR ProductServiceImpl:315 - Lỗi khi tạo mới sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @1eaef328)
+2024-06-13 22:46:42 INFO  PromotionServiceImpl:145 - Thêm khuyến mãi với mức discount 20 thành công
+2024-06-13 22:47:09 INFO  PromotionServiceImpl:169 - Cập nhật khuyến mãi với id#18 thành công
+2024-06-13 22:51:13 ERROR ProductServiceImpl:315 - Lỗi khi tạo mới sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @4b6fe2ea)
+2024-06-13 22:53:22 ERROR ProductServiceImpl:315 - Lỗi khi tạo mới sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @4b6fe2ea)
+2024-06-13 22:53:44 INFO  AuthController:90 - Người dùng hoangnguyen đã đăng nhập
+2024-06-13 22:54:04 ERROR ProductServiceImpl:315 - Lỗi khi tạo mới sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @4b6fe2ea)
+2024-06-13 22:56:35 ERROR ProductServiceImpl:408 - Lỗi khi cập nhật sản phẩm: class java.lang.String cannot be cast to class vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl (java.lang.String is in module java.base of loader 'bootstrap'; vn.edu.hcmuaf.fit.websubject.service.impl.CustomUserDetailsImpl is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @4b6fe2ea)
+2024-06-14 08:52:09 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh vào lúc Fri Jun 14 08:52:09 ICT 2024
+2024-06-14 09:00:39 INFO  OrderServiceImpl:97 - Đơn hàng KG0W3RX47K được tạo bởi randomuser
+2024-06-14 09:00:39 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh
+2024-06-14 09:00:39 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #93 khỏi giỏ hàng
+2024-06-14 09:01:48 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh vào lúc Fri Jun 14 09:01:48 ICT 2024
+2024-06-14 09:03:44 INFO  CommentServiceImpl:151 - Đã xóa bình luận #16
+2024-06-14 09:04:00 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh vào lúc Fri Jun 14 09:04:00 ICT 2024
+2024-06-14 09:04:41 INFO  CommentServiceImpl:151 - Đã xóa bình luận #17
+2024-06-14 09:09:28 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh vào lúc Fri Jun 14 09:09:28 ICT 2024
+2024-06-14 09:10:42 INFO  CommentServiceImpl:151 - Đã xóa bình luận #18
+2024-06-14 09:10:55 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh vào lúc Fri Jun 14 09:10:55 ICT 2024
+2024-06-14 09:11:46 INFO  CommentServiceImpl:151 - Đã xóa bình luận #19
+2024-06-14 09:15:21 INFO  CommentServiceImpl:106 - randomuser đã bình luận sản phẩm Bút Bi 0.5 mm Thiên Long TL-027 - Mực Xanh vào lúc Fri Jun 14 09:15:21 ICT 2024
+2024-06-14 10:04:37 INFO  AuthController:90 - Người dùng randomuser đã đăng nhập
+2024-06-14 16:24:09 INFO  ProductServiceImpl:312 - Người dùng hoangnguyen đã tạo sản phẩm mới Sách Đắc Nhân Tâm
+2024-06-14 17:01:29 INFO  AuthController:90 - Người dùng hoangnguyen đã đăng nhập
+2024-06-14 17:53:30 INFO  UserServiceImpl:222 - Cập nhật tài khoản chuotcon thành công
+2024-06-14 17:54:34 INFO  UserServiceImpl:222 - Cập nhật tài khoản chuotcon thành công
+2024-06-14 17:54:58 ERROR UserServiceImpl:251 - Lỗi khi xóa tài khoản: Argument [ADMIN] of type [java.lang.String] did not match parameter type [vn.edu.hcmuaf.fit.websubject.entity.EnumRole (n/a)]
+2024-06-14 20:26:35 INFO  InventoryServiceImpl:114 - Tạo mới kho hàng cho sản phẩm #1
+2024-06-17 12:48:44 INFO  AuthController:90 - Người dùng dangkhoa đã đăng nhập
+2024-06-17 13:05:26 INFO  AuthController:90 - Người dùng anotheruser đã đăng nhập
+2024-06-17 13:11:32 INFO  AuthController:90 - Người dùng dangkhoa đã đăng nhập
+2024-06-22 10:16:35 INFO  AuthController:90 - Người dùng hoangnguyen đã đăng nhập
+2024-06-22 10:41:01 INFO  UserServiceImpl:222 - Cập nhật tài khoản chuotcon thành công
+2024-06-22 21:32:41 INFO  AuthController:90 - Người dùng hoangnguyen đã đăng nhập
+2024-06-23 13:33:35 INFO  ContactServiceImpl:104 - Đã trả lời liên hệ của Nguyễn Văn A
+2024-06-22 14:13:58 ERROR AuthController:98 - Người dùng đăng nhâp thất bại với lỗi Bad credentials
+2024-06-22 14:43:39 INFO  AuthController:90 - Người dùng dangkhoa123 đã đăng nhập
+2024-06-22 18:33:55 INFO  AuthController:90 - Người dùng dangkhoa123 đã đăng nhập
+2024-06-22 19:15:41 INFO  UserServiceImpl:290 - Cập nhật thông tin người dùng dangkhoa123 thành công
+2024-06-22 19:19:37 INFO  UserServiceImpl:290 - Cập nhật thông tin người dùng dangkhoa123 thành công
+2024-06-22 19:19:44 INFO  UserServiceImpl:290 - Cập nhật thông tin người dùng dangkhoa123 thành công2024-06-23 21:48:16 INFO  AuthController:90 - Người dùng dangkhoa123 đã đăng nhập
+2024-06-23 21:49:09 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #1 khỏi giỏ hàng
+2024-06-23 21:49:10 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #2 khỏi giỏ hàng
+2024-06-23 21:52:15 INFO  AddressServiceImpl:56 - Người dùng dangkhoa123 tạo địa chỉ mới
+2024-06-23 21:52:23 INFO  OrderServiceImpl:97 - Đơn hàng IVCBESH2SO được tạo bởi dangkhoa123
+2024-06-23 21:52:23 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Tranh Truyện Ehon Cho Bé - Này, Cậu Ơi! (Tái Bản 2023)
+2024-06-23 21:52:23 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #3 khỏi giỏ hàng
+2024-06-23 21:52:23 INFO  OrderServiceImpl:140 - Cập nhật kho hàng cho sản phẩm: Truyện Tranh Ehon - Mọi Người Đã Dạy Tớ (Tái Bản 2024)
+2024-06-23 21:52:23 INFO  CartItemsServiceImpl:94 - Đã xóa sản phẩm với id #4 khỏi giỏ hàng
+2024-06-23 21:54:22 INFO  OrderServiceImpl:180 - Hủy đơn hàng IVCBESH2SO thành công
+2024-06-23 22:17:58 INFO  OrderServiceImpl:183 - Hủy đơn hàng IVCBESH2SO thành công
